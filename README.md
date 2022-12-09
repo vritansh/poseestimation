@@ -7,8 +7,11 @@ Files contained in the project :-
 
 1. main.py - this file contains all the details of the model. This includes the below modules 
 1.a). Getting input from the images using movenet. 
+
 1.b). Extracting points using movenet model
+
 1.c). Preprocessing the movenet output and saving to dataset.csv file
+
 1.d). Readin the custom trained model .h5 and .json file which has the model references. 
 1.e). Taking the input from the webcam 
 1.f). Extracting frames from the input and using those frames to preprocess the details. 
