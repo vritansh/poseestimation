@@ -1,5 +1,6 @@
 # Pose Prediction for Yoga Data using Multimodal Implementation and Feedback Estimation 
 
+Dataset used for the project : https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset 
 
 In order to run this project follow the below instructions. 
 
