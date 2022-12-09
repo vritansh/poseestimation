@@ -1,4 +1,5 @@
-# poseestimation
+# Pose Prediction for Yoga Data using Multimodal Implementation and Feedback Estimation 
+
 
 In order to run this project follow the below instructions. 
 
@@ -28,3 +29,12 @@ Files contained in the project :-
 
 
 Steps to produce the model
+1. Run "Points Generation" section in main.py to generate dataset.csv
+2. Generate the model using custom_points_model.py
+3. Run "OpenCV Extraction" section in main.py by correctly referensing the model.h5 and model.json files 
+
+Expected output
+1. The user can make any o the below poses to obtain the requested output
+2. The output obtained by the user would be then predicted by the model that is trained on the yoga dataset initiall on the points seciton.
+
+
