@@ -1,4 +1,4 @@
-# Pose Prediction for Yoga Data using Multimodal Implementation and Feedback Estimation 
+# Comprehensive Yoga Training System with Pose Detection and Feedback Generation 
 
 Dataset used for the project : https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset 
 
@@ -13,7 +13,7 @@ Files contained in the project :-
 
 1.c). Preprocessing the movenet output and saving to dataset.csv file
 
-1.d). Readin the custom trained model .h5 and .json file which has the model references. 
+1.d). Reading the custom trained model .h5 and .json file which has the model references. 
 
 1.e). Taking the input from the webcam 
 
