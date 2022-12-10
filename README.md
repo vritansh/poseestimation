@@ -14,6 +14,7 @@ Files contained in the project :-
 1.c). Preprocessing the movenet output and saving to dataset.csv file
 
 1.d). Readin the custom trained model .h5 and .json file which has the model references. 
+
 1.e). Taking the input from the webcam 
 1.f). Extracting frames from the input and using those frames to preprocess the details. 
 1.g). Predicting the user pose using pretrained model for the points extracted using movenet.
