@@ -2,6 +2,8 @@
 
 Dataset used for the project : https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset 
 
+Note:- Please point to the above dataset wherever the references are provided in the .ipynyb files.
+
 In order to run this project follow the below instructions sequence 
 
 1. Run the file   deep-learning-project.ipynb  for below sections :- 
@@ -23,4 +25,5 @@ Output - Running section 3 should show a webcam and user can select the mode as 
 
 Research Based Files :- 
 
-1
+1. research_cnn_model_custom.ipynb - For custom CNN model 
+2. research_resnet_transferl_learning.ipynb - For Transfer Learning based Model
