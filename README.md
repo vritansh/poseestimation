@@ -16,8 +16,11 @@ Files contained in the project :-
 1.d). Readin the custom trained model .h5 and .json file which has the model references. 
 
 1.e). Taking the input from the webcam 
+
 1.f). Extracting frames from the input and using those frames to preprocess the details. 
+
 1.g). Predicting the user pose using pretrained model for the points extracted using movenet.
+
 1.h). Providing user feedback about the pose. Currently it supports the provision of the pose for the user for only one pose. i.e. Downdog. This process is only for prototyping. For downdog position. 
 
 2. custom_points_model.py
@@ -31,7 +34,6 @@ Files contained in the project :-
 
 4. research_transfer_learning.py 
 < > 
-
 
 Steps to produce the model
 1. Run "Points Generation" section in main.py to generate dataset.csv
