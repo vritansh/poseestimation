@@ -1,4 +1,12 @@
-# Comprehensive Yoga Training System with Pose Detection and Feedback Generation 
+<h1> Comprehensive Yoga Training System with Pose Detection and Feedback Generation <h1>
+
+<h2> Architecture </h2>
+
+Generating Data 
+
+
+![alt text](https://github.com/vritansh/poseestimation/blob/main/GeneratingDatasetArchitecture.png?raw=true)
+
 
 Dataset used for the project : https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset 
 
